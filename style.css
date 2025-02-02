@@ -1,4 +1,21 @@
-body{
-    color: rgba(red, green, blue, alpha)
+p{
+    color: aqua;
+}
 
+#id1
+{
+    color: red;
+}
+
+.class1
+{
+    color:blue;
+}
+a[href="google"]
+{
+    color: black;
+}
+div,em
+{
+    color:green;
 }
