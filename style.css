@@ -1,5 +1,17 @@
 p{
-    color: aqua;
+    color: blue;
+    text-align: left;
+    font-family:'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: italic;
+    text-shadow: 10px;
+}
+body
+{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;    
+    background-image: url(dal_chawal.jpeg);
 }
 
 #id1
