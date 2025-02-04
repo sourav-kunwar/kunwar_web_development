@@ -1,0 +1,50 @@
+*
+{
+    margin: 0px;
+    padding: 0px;
+    scroll-behavior: smooth;
+}
+header
+{   
+    padding: 20px;
+    margin: 0px 20px;
+    text-align: center;
+    background-color: rgb(228, 119, 140);
+    border:2px solid black;
+    height: 100px;
+}
+header>a{
+    color: white ;
+}
+section
+{
+    border: 1px solid black;
+    text-align: center;
+    padding: 20px;
+    height: 600px;
+    width: 1300px;
+    margin:auto;
+    background-color: rgb(217, 160, 160);
+}
+section>img{
+    padding:20px;   
+    width:400px;
+    height: 500px;
+}
+
+footer
+{
+    text-align: right;
+    border:2px solid black;
+    height : 147px;
+    width:949px;
+    margin:auto;
+    background-color: rgb(11, 10, 10);
+}
+
+footer>a
+{
+    text-align: right;
+    color: white
+    ;
+}

@@ -11,12 +11,21 @@ body
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;    
-    background-image: url(dal_chawal.jpeg);
+    background-image: url(dal_chawal.peg);
+    background-color: aqua;
+}
+ul{
+    list-style:outside;
 }
 
 #id1
 {
     color: red;
+}
+
+#list_1
+{
+    list-style:inside;
 }
 
 .class1
@@ -30,4 +39,25 @@ a[href="google"]
 div,em
 {
     color:green;
+}
+
+.small
+{
+    margin: 20px 100px  ;
+    height: 200px;
+    background-color: white;
+    border: 4px solid black;
+    width: 200px;
+    padding: 20px; 
+    overflow: scroll;
+}
+
+.ok
+{
+    background-color: brown;
+}
+
+div
+{
+    color: black;
 }
