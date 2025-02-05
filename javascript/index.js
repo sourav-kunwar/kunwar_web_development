@@ -1,6 +1,6 @@
 // if else, switch ad loops
 // let icecream = Number(prompt("type a number"));
-
+// alert("hello world!!!")
 // console.log(icecream);
 
 // if(icecream == 10)
